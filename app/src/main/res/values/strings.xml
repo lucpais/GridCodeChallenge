@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GridCodeChallenge</string>
+    <string name="name_title">Name:</string>
+    <string name="action_search">Search</string>
+    <string name="e_mail_address_title">E-Mail:</string>
+    <string name="username_title">Username:</string>
+</resources>

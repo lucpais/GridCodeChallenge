@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="default_margin">8dp</dimen>
+    <dimen name="width_image_large">150dp</dimen>
+    <dimen name="height_image_large">150dp</dimen>
+    <dimen name="width_image_thumb">50dp</dimen>
+    <dimen name="height_image_thumb">50dp</dimen>
+    <dimen name="big_text_size">14sp</dimen>
+</resources>
