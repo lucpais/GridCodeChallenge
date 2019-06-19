@@ -81,7 +81,7 @@ class UserInfoAdapter extends RecyclerView.Adapter<UserInfoAdapter.MyViewHolder>
     @NonNull
     @Override
     public MyViewHolder onCreateViewHolder(@NonNull ViewGroup viewGroup, int i) {
-        View itemView = LayoutInflater.from(viewGroup.getContext()).inflate(R.layout.contact_cell, viewGroup, false);
+        View itemView = LayoutInflater.from(viewGroup.getContext()).inflate(R.layout.user_cell, viewGroup, false);
         UserInfoAdapter.MyViewHolder vh = new UserInfoAdapter.MyViewHolder(itemView);
         return vh;
 
